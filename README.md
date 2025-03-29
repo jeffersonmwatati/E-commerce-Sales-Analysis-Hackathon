@@ -33,6 +33,21 @@ I designed this hackathon to empower my university learners with hands-on experi
 
 <p align="center"> <img src="img/percentageoftotalsalesbycategory.PNG" alt="Percentage of Total Sales by Category"> </p>
 
+<p align="center"> <img src="img/percentageoftotalsalesbyproductname.PNG" alt="Percentage of total sales by productname"> </p>
+
+<p align="center"> <img src="img/percentageoftotalsalesbyshippingstatus.PNG" alt="Percentage of total sales by shipping status"> </p>
+
+<p align="center"> <img src="img/shippingstatustrends.PNG" alt="Shipping status trends"> </p>
+
+<p align="center"> <img src="img/monthlysalestrend.PNG" alt="Monthly sales trend"> </p>
+
+<p align="center"> <img src="img/salesdistributionbyregion.PNG" alt="Sales distribution by region"> </p>
+
+<p align="center"> <img src="img/salesdistributionbyproductcategory.PNG" alt="Sales distribution by product category"> </p>
+
+<p align="center"> <img src="img/correlationbetweenageandtotalpurchaseamount.PNG" alt="Correlation between age and total purchase amount"> </p>
+
+
 
 
 
