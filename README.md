@@ -29,7 +29,7 @@ I designed this hackathon to empower my university learners with hands-on experi
 
 ## Python Analysis
 
-![grading-scale.PNG](img/grading-scale.PNG)
+![percentageoftotalsalesbygender](img/percentageoftotalsalesbygender.PNG)
 
 
 
