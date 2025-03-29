@@ -29,7 +29,8 @@ I designed this hackathon to empower my university learners with hands-on experi
 
 ## Python Analysis
 
-![percentageoftotalsalesbygender](img/percentageoftotalsalesbygender.PNG)
+<p align="center"> <img src="img/percentageoftotalsalesbygender.PNG" alt="Percentage of Total Sales by Gender"> </p>
+
 
 
 
