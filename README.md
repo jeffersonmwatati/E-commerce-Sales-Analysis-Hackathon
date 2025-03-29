@@ -31,6 +31,8 @@ I designed this hackathon to empower my university learners with hands-on experi
 
 <p align="center"> <img src="img/percentageoftotalsalesbygender.PNG" alt="Percentage of Total Sales by Gender"> </p>
 
+<p align="center"> <img src="img/percentageoftotalsalesbycategory.PNG" alt="Percentage of Total Sales by Category"> </p>
+
 
 
 
