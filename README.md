@@ -27,48 +27,48 @@ I designed this hackathon to empower my university learners with hands-on experi
 ## SQL Analysis
 <p align="left"> <img src="img/01youngestoldestage.PNG" alt="youngest oldest age"> </p>
 
-<p align="center"> <img src="img/02numberofproducts.PNG" alt="SQL Analysis screenshot"> </p>
+<p align="left"> <img src="img/02numberofproducts.PNG" alt="SQL Analysis screenshot"> </p>
 
-<p align="center"> <img src="img/03expensive.PNG" alt="SQL Analysis screenshot"> </p>
+<p align="left"> <img src="img/03expensive.PNG" alt="SQL Analysis screenshot"> </p>
 
-<p align="center"> <img src="img/04regionavgshippingfee.PNG" alt="SQL Analysis screenshot"> </p>
+<p align="left"> <img src="img/04regionavgshippingfee.PNG" alt="SQL Analysis screenshot"> </p>
 
-<p align="center"> <img src="img/05regionsales.PNG" alt="SQL Analysis screenshot"> </p>
+<p align="left"> <img src="img/05regionsales.PNG" alt="SQL Analysis screenshot"> </p>
 
-<p align="center"> <img src="img/06fulfillmentrate.PNG" alt="SQL Analysis screenshot"> </p>
+<p align="left"> <img src="img/06fulfillmentrate.PNG" alt="SQL Analysis screenshot"> </p>
 
-<p align="center"> <img src="img/07boughtmanytimes.PNG" alt="SQL Analysis screenshot"> </p>
+<p align="left"> <img src="img/07boughtmanytimes.PNG" alt="SQL Analysis screenshot"> </p>
 
-<p align="center"> <img src="img/08agegroupavgordervalue.PNG" alt="SQL Analysis screenshot"> </p>
+<p align="left"> <img src="img/08agegroupavgordervalue.PNG" alt="SQL Analysis screenshot"> </p>
 
-<p align="center"> <img src="img/09agegroupnumberofpurchases.PNG" alt="SQL Analysis screenshot"> </p>
+<p align="left"> <img src="img/09agegroupnumberofpurchases.PNG" alt="SQL Analysis screenshot"> </p>
 
-<p align="center"> <img src="img/10agegrouptotalspending.PNG" alt="SQL Analysis screenshot"> </p>
+<p align="left"> <img src="img/10agegrouptotalspending.PNG" alt="SQL Analysis screenshot"> </p>
 
-<p align="center"> <img src="img/11highandlowrevenue.PNG" alt="SQL Analysis screenshot"> </p>
+<p align="left"> <img src="img/11highandlowrevenue.PNG" alt="SQL Analysis screenshot"> </p>
 
-<p align="center"> <img src="img/12statisticsofagegroups.PNG" alt="SQL Analysis screenshot"> </p>
+<p align="left"> <img src="img/12statisticsofagegroups.PNG" alt="SQL Analysis screenshot"> </p>
 
 
 ## Python Analysis
 
-<p align="center"> <img src="img/percentageoftotalsalesbygender.PNG" alt="Percentage of Total Sales by Gender"> </p>
+<p align="left"> <img src="img/percentageoftotalsalesbygender.PNG" alt="Percentage of Total Sales by Gender"> </p>
 
-<p align="center"> <img src="img/percentageoftotalsalesbycategory.PNG" alt="Percentage of Total Sales by Category"> </p>
+<p align="left"> <img src="img/percentageoftotalsalesbycategory.PNG" alt="Percentage of Total Sales by Category"> </p>
 
-<p align="center"> <img src="img/percentageoftotalsalesbyproductname.PNG" alt="Percentage of total sales by productname"> </p>
+<p align="left"> <img src="img/percentageoftotalsalesbyproductname.PNG" alt="Percentage of total sales by productname"> </p>
 
-<p align="center"> <img src="img/percentageoftotalsalesbyshippingstatus.PNG" alt="Percentage of total sales by shipping status"> </p>
+<p align="left"> <img src="img/percentageoftotalsalesbyshippingstatus.PNG" alt="Percentage of total sales by shipping status"> </p>
 
-<p align="center"> <img src="img/shippingstatustrends.PNG" alt="Shipping status trends"> </p>
+<p align="left"> <img src="img/shippingstatustrends.PNG" alt="Shipping status trends"> </p>
 
-<p align="center"> <img src="img/monthlysalestrend.PNG" alt="Monthly sales trend"> </p>
+<p align="left"> <img src="img/monthlysalestrend.PNG" alt="Monthly sales trend"> </p>
 
-<p align="center"> <img src="img/salesdistributionbyregion.PNG" alt="Sales distribution by region"> </p>
+<p align="left"> <img src="img/salesdistributionbyregion.PNG" alt="Sales distribution by region"> </p>
 
-<p align="center"> <img src="img/salesdistributionbyproductcategory.PNG" alt="Sales distribution by product category"> </p>
+<p align="left"> <img src="img/salesdistributionbyproductcategory.PNG" alt="Sales distribution by product category"> </p>
 
-<p align="center"> <img src="img/correlationbetweenageandtotalpurchaseamount.PNG" alt="Correlation between age and total purchase amount"> </p>
+<p align="left"> <img src="img/correlationbetweenageandtotalpurchaseamount.PNG" alt="Correlation between age and total purchase amount"> </p>
 
 
 
