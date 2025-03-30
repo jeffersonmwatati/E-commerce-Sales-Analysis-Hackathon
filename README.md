@@ -27,6 +27,8 @@ I designed this hackathon to empower my university learners with hands-on experi
 ## SQL Analysis
 <p align="center"> <img src="img/01youngestoldestage.PNG" alt="youngest oldest age"> </p>
 
+<p align="center"> <img src="img/02numberofproducts.PNG" alt="SQL Analysis screenshot"> </p>
+
 ## Python Analysis
 
 <p align="center"> <img src="img/percentageoftotalsalesbygender.PNG" alt="Percentage of Total Sales by Gender"> </p>
