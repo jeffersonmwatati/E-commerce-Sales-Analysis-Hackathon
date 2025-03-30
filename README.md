@@ -47,6 +47,8 @@ I designed this hackathon to empower my university learners with hands-on experi
 
 <p align="center"> <img src="img/11highandlowrevenue.PNG" alt="SQL Analysis screenshot"> </p>
 
+<p align="center"> <img src="img/12statisticsofagegroups.PNG" alt="SQL Analysis screenshot"> </p>
+
 
 ## Python Analysis
 
