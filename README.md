@@ -25,7 +25,7 @@ I designed this hackathon to empower my university learners with hands-on experi
 
 
 ## SQL Analysis
-
+<p align="center"> <img src="img/01youngestoldestage.PNG" alt="youngest oldest age"> </p>
 
 ## Python Analysis
 
