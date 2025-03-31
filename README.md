@@ -25,29 +25,27 @@ I designed this hackathon to empower my university learners with hands-on experi
 
 
 ## SQL Analysis
-<p align="left"> <img src="img/01youngestoldestage.PNG" alt="youngest oldest age"> </p>
+<p align="left"> <img src="img/01HighestLowestRevenueCategories.PNG" alt="SQL Analysis screenshot"> </p>
 
-<p align="left"> <img src="img/02numberofproducts.PNG" alt="SQL Analysis screenshot"> </p>
+<p align="left"> <img src="img/02YoungestOldestCustomerAge.PNG" alt="SQL Analysis screenshot"> </p>
 
-<p align="left"> <img src="img/03expensive.PNG" alt="SQL Analysis screenshot"> </p>
+<p align="left"> <img src="img/03AverageOrderValuebyAgeGroup.PNG" alt="SQL Analysis screenshot"> </p>
 
-<p align="left"> <img src="img/04regionavgshippingfee.PNG" alt="SQL Analysis screenshot"> </p>
+<p align="left"> <img src="img/04NumberofPurchasesbyAgeGroup.PNG" alt="SQL Analysis screenshot"> </p>
 
-<p align="left"> <img src="img/05regionsales.PNG" alt="SQL Analysis screenshot"> </p>
+<p align="left"> <img src="img/05PurchaseDistributionbyAgeGroupandCategory.PNG" alt="SQL Analysis screenshot"> </p>
 
-<p align="left"> <img src="img/06fulfillmentrate.PNG" alt="SQL Analysis screenshot"> </p>
+<p align="left"> <img src="img/06ProductPurchasesbyGender.PNG" alt="SQL Analysis screenshot"> </p>
 
-<p align="left"> <img src="img/07boughtmanytimes.PNG" alt="SQL Analysis screenshot"> </p>
+<p align="left"> <img src="img/07TopPurchasedProductbyGender.PNG" alt="SQL Analysis screenshot"> </p>
 
-<p align="left"> <img src="img/08agegroupavgordervalue.PNG" alt="SQL Analysis screenshot"> </p>
+<p align="left"> <img src="img/08OrderFulfillmentDeliveryPerformanceAnalysis.PNG" alt="SQL Analysis screenshot"> </p>
 
-<p align="left"> <img src="img/09agegroupnumberofpurchases.PNG" alt="SQL Analysis screenshot"> </p>
+<p align="left"> <img src="img/09MostExpensiveCheapestProducts.PNG" alt="SQL Analysis screenshot"> </p>
 
-<p align="left"> <img src="img/10agegrouptotalspending.PNG" alt="SQL Analysis screenshot"> </p>
+<p align="left"> <img src="img/10TotalProductsCategoriesOverview.PNG" alt="SQL Analysis screenshot"> </p>
 
-<p align="left"> <img src="img/11highandlowrevenue.PNG" alt="SQL Analysis screenshot"> </p>
 
-<p align="left"> <img src="img/12statisticsofagegroups.PNG" alt="SQL Analysis screenshot"> </p>
 
 
 ## Python Analysis
