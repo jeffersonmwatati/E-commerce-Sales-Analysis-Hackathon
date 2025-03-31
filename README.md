@@ -76,6 +76,11 @@ I designed this hackathon to empower my university learners with hands-on experi
 
 ## Power BI Dashboard
 
+<p align="left"> <img src="img/.PNG" alt="PowerBI Dashboard"> </p>
+
+<p align="left"> <img src="img/.PNG" alt="PowerBI Dashboard"> </p>
+
+<p align="left"> <img src="img/.PNG" alt="PowerBI Dashboard"> </p>
 
 ## Conclusion
 
