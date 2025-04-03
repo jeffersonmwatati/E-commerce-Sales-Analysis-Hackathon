@@ -72,22 +72,31 @@ After importing the dataset into a database, I needed to convert the **OrderDate
 ## Python Analysis
 
 <p align="left"> <img src="img/percentageoftotalsalesbygender.PNG" alt="Percentage of Total Sales by Gender"> </p>
+<br/>
 
 <p align="left"> <img src="img/percentageoftotalsalesbycategory.PNG" alt="Percentage of Total Sales by Category"> </p>
+<br/>
 
 <p align="left"> <img src="img/percentageoftotalsalesbyproductname.PNG" alt="Percentage of total sales by productname"> </p>
+<br/>
 
 <p align="left"> <img src="img/percentageoftotalsalesbyshippingstatus.PNG" alt="Percentage of total sales by shipping status"> </p>
+<br/>
 
 <p align="left"> <img src="img/shippingstatustrends.PNG" alt="Shipping status trends"> </p>
+<br/>
 
 <p align="left"> <img src="img/monthlysalestrend.PNG" alt="Monthly sales trend"> </p>
+<br/>
 
 <p align="left"> <img src="img/salesdistributionbyregion.PNG" alt="Sales distribution by region"> </p>
+<br/>
 
 <p align="left"> <img src="img/salesdistributionbyproductcategory.PNG" alt="Sales distribution by product category"> </p>
+<br/>
 
 <p align="left"> <img src="img/correlationbetweenageandtotalpurchaseamount.PNG" alt="Correlation between age and total purchase amount"> </p>
+<br/>
 
 
 
@@ -96,10 +105,13 @@ After importing the dataset into a database, I needed to convert the **OrderDate
 ## Power BI Dashboard
 
 <p align="left"> <img src="img/PowerBI-Dashboard02.PNG" alt="PowerBI Dashboard"> </p>
+<br/>
 
 <p align="left"> <img src="img/PowerBI-Dashboard03.PNG" alt="PowerBI Dashboard"> </p>
+<br/>
 
 <p align="left"> <img src="img/PowerBI-Dashboard04.PNG" alt="PowerBI Dashboard"> </p>
+<br/>
 
 ## Conclusion
 
