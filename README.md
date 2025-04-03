@@ -27,30 +27,19 @@ Dataset source: [E-commerce Sales Analysis Hackathon](https://github.com/jeffers
 
 ## Data Cleaning Process
 Using Excel
-I began by renaming the dataset to a standardized name, "ecommerce", for consistency. Next, I renamed the columns to remove spaces and ensure they followed a uniform naming convention. I then checked and corrected the data types of each column, ensuring accuracy. To maintain uniformity, all numerical columns were formatted to remove decimal places.
+I began by renaming the dataset to a standardized name, **"ecommerce"**, for consistency. Next, I renamed the columns to remove spaces and ensure they followed a uniform naming convention. I then checked and corrected the data types of each column, ensuring accuracy. To maintain uniformity, all numerical columns were formatted to remove decimal places.
 
-To handle missing data, I used Excel’s Filter function to identify and remove partially empty columns. The process involved:
+To handle missing data, I used Excel’s **Filter function** to identify and remove partially empty columns. 
 
-Selecting the entire dataset and applying a filter (Data > Filter).
+Initially, the dataset contained **1,000 records**. After removing columns with missing values, the final dataset had **810 records**.
 
-Clicking the drop-down arrow on each column header, unchecking all values except "Blanks".
-
-Selecting the entire column, right-clicking, and choosing Delete.
-
-Removing the filter (Data > Clear Filter).
-
-Initially, the dataset contained 1,000 records. After removing columns with missing values, the final dataset had 810 records.
-
-Using Python
+**Using Python**
 To ensure data integrity, I checked for duplicate records using Python. The results showed no duplicates in the dataset:
+  - **Total records before: 810**
+  - **Total records after: 810**
+  - **Duplicates removed: 0**
 
-Total records before: 810
-
-Total records after: 810
-
-Duplicates removed: 0
-
-Using SQL
+**Using SQL**
 After importing the dataset into a database, I needed to convert the OrderDate column from text to a date format. The rest of the columns already had the correct data types, ensuring smooth data processing.
 
 
