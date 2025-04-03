@@ -7,9 +7,10 @@ I designed this hackathon to empower my university learners with hands-on experi
 ## Introduction
 The dataset provides information on sales, customer demographics, and order details. It comprises 12 columns: CustomerID, Gender, Region, Age, ProductName, Category, UnitPrice, Quantity, TotalPrice, ShippingFee, ShippingStatus, and OrderDate. Your task is to analyze this dataset, answer the provided questions, and uncover additional insights.
 
-Dataset source: E-commerce Sales Analysis Hackathon.
+Dataset source:[E-commerce Sales Analysis Hackathon](https://github.com/jeffersonmwatati/E-commerce-Sales-Analysis-Hackathon/blob/64527b0963ecab250ac30d546b2417a0cdfe6f42/raw-dataset-e-commerce-sales-and-customer-insights-dataset.csv)
 
 **Hackathon Questions**<br/>
+ <br/>
 ***Sales Analysis***<br/>
     1. What are the total sales by region?<br/>
     2. Which product category generates the highest revenue?<br/>
