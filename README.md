@@ -38,25 +38,34 @@ After importing the dataset into a database, I needed to convert the **OrderDate
 
 ## SQL Analysis
 <p align="left"> <img src="img/01HighestLowestRevenueCategories.PNG" alt="SQL Analysis screenshot"> </p>
-
+<br/>
+ 
 <p align="left"> <img src="img/02YoungestOldestCustomerAge.PNG" alt="SQL Analysis screenshot"> </p>
-
+<br/>
+ 
 <p align="left"> <img src="img/03AverageOrderValuebyAgeGroup.PNG" alt="SQL Analysis screenshot"> </p>
-
+<br/>
+ 
 <p align="left"> <img src="img/04NumberofPurchasesbyAgeGroup.PNG" alt="SQL Analysis screenshot"> </p>
+<br/>
 
 <p align="left"> <img src="img/05PurchaseDistributionbyAgeGroupandCategory.PNG" alt="SQL Analysis screenshot"> </p>
+<br/>
 
 <p align="left"> <img src="img/06ProductPurchasesbyGender.PNG" alt="SQL Analysis screenshot"> </p>
-
+<br/>
+ 
 <p align="left"> <img src="img/07TopPurchasedProductbyGender.PNG" alt="SQL Analysis screenshot"> </p>
-
+<br/>
+ 
 <p align="left"> <img src="img/08OrderFulfillmentDeliveryPerformanceAnalysis.PNG" alt="SQL Analysis screenshot"> </p>
+<br/>
 
 <p align="left"> <img src="img/09MostExpensiveCheapestProducts.PNG" alt="SQL Analysis screenshot"> </p>
+<br/>
 
 <p align="left"> <img src="img/10TotalProductsCategoriesOverview.PNG" alt="SQL Analysis screenshot"> </p>
-
+<br/>
 
 
 
