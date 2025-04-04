@@ -75,6 +75,8 @@ Additionally, the data shows that the business has sold only seven distinct prod
 <p align="left"> <img src="img/06ProductPurchasesbyGender.PNG" alt="SQL Analysis screenshot"> </p>
 <br/>
  
+
+**Top Purchased Product by Gender**, The analysis confirms that the **Monitor is the most purchased product** by both male and female customers. Male customers purchased it 81 times, while female customers followed closely with 74 purchases. This consistency across genders highlights the Monitor as a **key product driving sales**, and suggests strong, broad-based demand that could be leveraged in future promotions and inventory planning.
 <p align="left"> <img src="img/07TopPurchasedProductbyGender.PNG" alt="SQL Analysis screenshot"> </p>
 <br/>
  
