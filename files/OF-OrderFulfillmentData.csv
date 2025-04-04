@@ -1,0 +1,2 @@
+TotalOrders,DeliveredOrders,InTransitOrders,ReturnedOrders,FulfillmentRate,InTransitRate,ReturnRate
+810,268,284,258,33.09,35.06,31.85
