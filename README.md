@@ -60,11 +60,18 @@ Analysis of the **average order value** across these groups revealed that **cust
 <p align="left"> <img src="img/04NumberofPurchasesbyAgeGroup.PNG" alt="SQL Analysis screenshot"> </p>
 <br/>
 
-**Purchase Distribution by Age Group and Product Category**, The distribution of purchases across age groups and product categories reinforces earlier insights. The 50+ age group **consistently demonstrates the strongest buying power**, making the highest number of purchases across multiple categories.
+**Purchase Distribution by Age Group and Product Category**, The distribution of purchases across age groups and product categories reinforces earlier insights. The 50+ age group **consistently demonstrates the strongest buying power**, making the highest number of purchases across all categories.
 Among the product categories, Electronics stands out as the top revenue generator, significantly outperforming Accessories and Wearables. This trend suggests a strong alignment between high-spending customers and high-value products, underlining the importance of **maintaining focus on both the 50+ demographic and the electronics category to maximize revenue potential**.
 <p align="left"> <img src="img/05PurchaseDistributionbyAgeGroupandCategory.PNG" alt="SQL Analysis screenshot"> </p>
 <br/>
 
+
+**Product Purchases by Gender**, The analysis of product purchases by gender reveals several key insights:
++ The most purchased product is the Monitor, indicating high demand for computing-related accessories.
++ The least purchased product is Headphones, suggesting lower customer interest or possible issues with pricing, visibility, or stock levels.
++ Male customers exhibited a slightly higher purchasing power compared to female customers, reflecting a modest gender-based variation in buying behavior.
+
+Additionally, the data shows that the business has sold only seven distinct product types, highlighting a limited product catalog. This narrow range may restrict growth opportunities and customer engagement. Expanding the product offerings could enhance customer choice and drive increased sales across different customer segments.
 <p align="left"> <img src="img/06ProductPurchasesbyGender.PNG" alt="SQL Analysis screenshot"> </p>
 <br/>
  
