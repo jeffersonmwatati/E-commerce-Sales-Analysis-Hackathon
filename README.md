@@ -46,10 +46,10 @@ After importing the dataset into a database, I needed to convert the **OrderDate
 <br/>
  
 **Average Order Value by Age Group**, To better understand purchasing behavior, customers were categorized into the following age groups:
-     + Young Adults (18–29)
-     + Established Workforce (30–39)
-     + Senior Professionals (40–49)
-     + Retirement Age (50+)
++ Young Adults (18–29)
++ Established Workforce (30–39)
++ Senior Professionals (40–49)
++ Retirement Age (50+)
 Analysis of the **average order value** across these groups revealed that **customers aged 50 and above are the highest spenders**, suggesting a higher purchasing power or preference for premium products. Young Adults (18–29) followed closely, while the **Established Workforce (30–39) emerged as the lowest spenders** among all groups. This insight may inform age-targeted marketing and product positioning strategies.
 <p align="left"> <img src="img/03AverageOrderValuebyAgeGroup.PNG" alt="SQL Analysis screenshot"> </p>
 <br/>
