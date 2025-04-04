@@ -94,9 +94,13 @@ Furthermore, the in transit rate of 35.06% indicates delays in the delivery proc
 <p align="left"> <img src="img/08OrderFulfillmentDeliveryPerformanceAnalysis.PNG" alt="SQL Analysis screenshot"> </p>
 <br/>
 
+
+**Most Expensive & Cheapest Products**, Among all the products offered, the Laptop is identified as the most **expensive item, priced at $3,110**. In contrast, the Mouse is the **cheapest product, available for just $30**. This wide pricing range reflects a diverse product mix catering to both **high-end and budget-conscious customers**. It also emphasizes the potential for cross-selling opportunities, such as bundling lower-cost accessories with premium items to enhance overall sales value.
 <p align="left"> <img src="img/09MostExpensiveCheapestProducts.PNG" alt="SQL Analysis screenshot"> </p>
 <br/>
 
+
+**Total Products & Categories Overview**, The business currently offers a **total of 7 products**, which include: Monitor, Laptop, Keyboard, Smartphone, Mouse, Smartwatch, and Headphones. These products are grouped into **3 main categories**: Electronics, Accessories, and Wearables. While the current catalog provides a foundation across key technology segments, the **limited number of products and categories** suggests a narrow offering that may constrain customer choice and revenue potential. Expanding the product range within each category—or introducing new categories—could help meet diverse customer needs and drive business growth.
 <p align="left"> <img src="img/10TotalProductsCategoriesOverview.PNG" alt="SQL Analysis screenshot"> </p>
 <br/>
 
