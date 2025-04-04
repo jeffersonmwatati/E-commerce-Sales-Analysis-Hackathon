@@ -37,6 +37,7 @@ After importing the dataset into a database, I needed to convert the **OrderDate
 
 
 ## SQL Analysis
+**Revenue Insights by Category**, The Electronics category generated the **highest revenue, totaling $927,000**, indicating strong customer demand and high-value product sales. In contrast, the Accessories category recorded the **lowest revenue, amounting to $58,580**, suggesting either lower sales volume or lower-priced items within this segment.
 <p align="left"> <img src="img/01HighestLowestRevenueCategories.PNG" alt="SQL Analysis screenshot"> </p>
 <br/>
  
