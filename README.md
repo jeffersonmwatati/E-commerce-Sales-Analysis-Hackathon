@@ -80,6 +80,17 @@ Additionally, the data shows that the business has sold only seven distinct prod
 <p align="left"> <img src="img/07TopPurchasedProductbyGender.PNG" alt="SQL Analysis screenshot"> </p>
 <br/>
  
+
+**Order Fulfillment & Delivery Performance Analysis**, A total of 810 orders were recorded, out of which:
++ 268 orders were successfully delivered (**Fulfillment Rate: 33.09%**)
++ 284 orders are still in transit (**In Transit Rate: 35.06%**)
++ 258 orders were returned (**Return Rate: 31.85%**)
+
+These figures indicate significant performance challenges in the order fulfillment and delivery process. **The current fulfillment rate of 33.09% falls far below the industry benchmark of 80% or higher**, suggesting major inefficiencies in processing and delivering orders.
+
+The return rate of 31.85% is also alarmingly high, pointing to **potential issues with product quality, inaccurate descriptions, or unmet customer expectations**.
+
+Furthermore, the in transit rate of 35.06% indicates delays in the delivery process, which could **negatively impact customer satisfaction and brand reputation**. Ideally, this rate should be kept minimal by streamlining logistics and improving delivery speed. Recommendations include conducting a root cause analysis of delivery delays and returns, improving quality control, optimizing supply chain processes, and enhancing customer support during and after purchase.
 <p align="left"> <img src="img/08OrderFulfillmentDeliveryPerformanceAnalysis.PNG" alt="SQL Analysis screenshot"> </p>
 <br/>
 
