@@ -41,6 +41,7 @@ After importing the dataset into a database, I needed to convert the **OrderDate
 <p align="left"> <img src="img/01HighestLowestRevenueCategories.PNG" alt="SQL Analysis screenshot"> </p>
 <br/>
  
+**Customer Age Range**, The customer base spans a wide age range, with the **youngest customer aged 18** and the **oldest aged 69**. This indicates a diverse demographic, potentially requiring tailored marketing strategies to effectively engage different age groups.
 <p align="left"> <img src="img/02YoungestOldestCustomerAge.PNG" alt="SQL Analysis screenshot"> </p>
 <br/>
  
