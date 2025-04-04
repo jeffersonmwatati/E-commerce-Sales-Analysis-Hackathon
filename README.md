@@ -55,9 +55,13 @@ Analysis of the **average order value** across these groups revealed that **cust
 <p align="left"> <img src="img/03AverageOrderValuebyAgeGroup.PNG" alt="SQL Analysis screenshot"> </p>
 <br/>
  
+**Number of Purchases by Age Group**, Analyzing the number of purchases across the defined age groups provides further insight into customer behavior. The 50+ age group led significantly with 398 purchases, **demonstrating a strong purchasing capacity**. They were followed by Young Adults (18–29) with 142 purchases, Senior Professionals (40–49) with 138 purchases, and Established Workforce (30–39) with 132 purchases.
+**Notably**, the 50+ group made more than double the number of purchases compared to any other group, reinforcing their role as **the most active and valuable customer segment**. This trend highlights the importance of targeting this demographic in marketing and sales strategies.
 <p align="left"> <img src="img/04NumberofPurchasesbyAgeGroup.PNG" alt="SQL Analysis screenshot"> </p>
 <br/>
 
+**Purchase Distribution by Age Group and Product Category**, The distribution of purchases across age groups and product categories reinforces earlier insights. The 50+ age group **consistently demonstrates the strongest buying power**, making the highest number of purchases across multiple categories.
+Among the product categories, Electronics stands out as the top revenue generator, significantly outperforming Accessories and Wearables. This trend suggests a strong alignment between high-spending customers and high-value products, underlining the importance of **maintaining focus on both the 50+ demographic and the electronics category to maximize revenue potential**.
 <p align="left"> <img src="img/05PurchaseDistributionbyAgeGroupandCategory.PNG" alt="SQL Analysis screenshot"> </p>
 <br/>
 
