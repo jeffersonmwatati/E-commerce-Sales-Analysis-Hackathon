@@ -1,0 +1,22 @@
+
+**************************   Links to Youtube Resources     **************************8
+
+Watch the videos below and install python, jupyter notebooks, mysql and power BI and start doing your project.
+
+
+install python and jupyter notebook
+https://www.youtube.com/watch?v=HLD-Ll_-IT4
+
+
+install mysql
+https://www.youtube.com/watch?v=BxdSUGBs0gM
+
+
+Install power BI
+https://www.youtube.com/watch?v=GT2NcTE6UEo
+
+
+
+
+
+
