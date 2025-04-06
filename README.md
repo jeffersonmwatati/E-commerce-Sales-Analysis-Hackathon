@@ -163,15 +163,35 @@ The analysis of the correlation between age and total purchase amount reveals so
 
 
 
-
 ## Power BI Dashboard
 
+The sales analysis dashboard provides several key insights into the business's performance:
++ **Total sales revenue stands at $1 million**, a significant figure, but showing areas for improvement.
++ **Electronics** is the leading product category, generating the highest revenue, while **Wearables and Accessories** contribute **very little to total revenue**.
++ **Monthly revenue trends show a decrease** over the year, with **current revenue being too low**, indicating a need for action.
++ Regionally, the **East region leads in sales**, followed closely by the **West region**.
++ **The Laptop** is the highest-grossing product, contributing the most revenue to the business.
+
+These insights suggest areas of strength and weakness, with potential opportunities for growth in underperforming categories and a need to address the revenue decline.
 <p align="left"> <img src="img/PowerBI-Dashboard02.PNG" alt="PowerBI Dashboard"> </p>
 <br/>
 
+
+The customer behavior dashboard reveals the following insights:
++ **New customers account for 19.64%** of the total customer base, totaling 55 individuals, while **returning customers represent 80.36%**, with 225 individuals. This highlights a **strong reliance on returning customers** and suggests a **need to focus on attracting new customers** to drive growth.
++ In terms of **customer spending behavior**, customers aged **50 and above** exhibit a **significantly higher spending power**, while younger age groups show comparatively lower spending habits.
++ There is also a slight **gender difference in customer numbers**, with **male customers** appearing to be more prevalent than female customers.
+
+These insights suggest a **need to focus on expanding the new customer base** and possibly tailor marketing strategies to **capture the high-spending segment of customers aged 50 and above**.
 <p align="left"> <img src="img/PowerBI-Dashboard03.PNG" alt="PowerBI Dashboard"> </p>
 <br/>
 
+
+The order fulfillment dashboard highlights several key concerns regarding delivery performance:
++ **Delivery performance has significantly declined over time**, with a noticeable drop in orders fulfilled each month. This trend indicates **poor delivery service**, which could **negatively impact customer buying behavior** and **damage trust in the business**.
++ The **shipping status report** also reveals **poor performance**, with concerning percentages across **Delivered, In Transit**, and **Returned** orders. These figures suggest inefficiencies in the fulfillment process, which could further affect **customer satisfaction** and **business reputation**.
+
+Immediate improvements are necessary to address these delivery issues and restore customer confidence.
 <p align="left"> <img src="img/PowerBI-Dashboard04.PNG" alt="PowerBI Dashboard"> </p>
 <br/>
 
