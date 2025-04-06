@@ -1,7 +1,7 @@
 # Data Analysis Hackathon 2025: E-commerce Sales and Customer Insights
 
 #### **May, 2025** 
-#### **By Mr. Jefferson Mwatati**
+#### [**By Mr. Jefferson Mwatati**](https://github.com/jeffersonmwatati)
 I designed this hackathon to empower my university learners with hands-on experience in data analysis using tools like Excel, SQL, Python, and Power BI. Learners will analyze an E-commerce Sales and Customer Insights Dataset to uncover trends, answer key business questions, and create actionable insights.
 
 ## Introduction
@@ -206,12 +206,14 @@ Furthermore, the **order fulfillment process** is facing significant challenges,
 
 2. **Target New Customers**: While the business has a strong base of returning customers, there is an urgent need to **attract new customers**. Implement targeted marketing strategies, especially focusing on the high-spending **50+ demographic**, to expand the customer base.
 
-Improve Delivery and Fulfillment Efficiency: Address the declining fulfillment rates and high return rates by improving logistics, streamlining processes, and enhancing product quality to meet customer expectations. A root cause analysis of delivery delays and returns is critical.
+3. **Improve Delivery and Fulfillment Efficiency**: Address the declining **fulfillment rates** and high **return rates** by improving logistics, streamlining processes, and enhancing product quality to meet customer expectations. A root **cause analysis** of delivery delays and returns is critical.
 
-Focus on High-Performing Categories: Continue to leverage the strong performance of Electronics and Laptops, ensuring consistent stock levels and enhanced marketing to maintain their dominance in sales.
+4. **Focus on High-Performing Categories**: Continue to leverage the strong performance of **Electronics** and **Laptops**, ensuring consistent stock levels and enhanced marketing to maintain their dominance in sales.
 
-Monitor Regional Trends: While the East region leads in sales, the business should focus on improving performance in other regions, particularly the West and South, by localizing marketing and product strategies.
+5. **Monitor Regional Trends**: While the **East** region leads in sales, the business should focus on improving performance in other regions, particularly the **West** and **South**, by localizing marketing and product strategies.
 
-Addressing these issues and implementing strategic improvements, the business can work towards reversing the declining sales trend and achieving sustainable growth.
+***Addressing these issues and implementing strategic improvements, the business can work towards reversing the declining sales trend and achieving sustainable growth.***
 
 
+[**By Mr. Jefferson Mwatati**](https://github.com/jeffersonmwatati)
+                                                                           ***End of Report***   
