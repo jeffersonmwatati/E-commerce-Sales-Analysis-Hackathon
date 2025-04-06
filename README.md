@@ -126,16 +126,22 @@ This indicates a heavy reliance on electronics for revenue, while **Wearables an
 <br/>
 
 
-An evaluation of total sales by individual product names shows that the **Laptop is the top-performing product**, generating **50.2% of the total revenue**. This is followed by the **Smart Phone**, contributing **26.1%**, making these two products the **main revenue drivers** for the business. Other products show significantly lower performance: the **Monitor accounts for 12.1%**, **Smart Watch 6.1%, Headphones 2.9%, Keyboard 1.8%**, and the **Mouse just 0.9%** of total sales. These figures indicate that **only the Laptop and Smart Phone are performing well**, while the remaining products contribute **very little to overall revenue**. This underperformance suggests a need for strategic intervention—either through improved marketing, product positioning, or reconsideration of inventory and sales efforts—for the lower-performing items.
+An evaluation of total sales by individual product names shows that the **Laptop is the top-performing product**, generating **50.2% of the total revenue**. This is followed by the **Smart Phone**, contributing **26.1%**, making these two products the **main revenue drivers** for the business. Other products show significantly lower performance: the **Monitor accounts for 12.1%**, **Smart Watch 6.1%, Headphones 2.9%, Keyboard 1.8%**, and the **Mouse just 0.9%** of total sales. These figures indicate that **only the Laptop and Smart Phone are performing well**, while the remaining products contribute **very little to overall revenue**. This underperformance suggests a need for strategic intervention, either through improved marketing, product positioning, or reconsideration of inventory and sales efforts, for the lower-performing items.
 <p align="left"> <img src="img/percentageoftotalsalesbyproductname.PNG" alt="Percentage of total sales by productname"> </p>
 <br/>
 
+
+The sales distribution by shipping status shows that **35.1% of orders are In Transit, 32.7% Delivered**, and **32.2% Returned**. The high return rate nearly matching the delivered orders indicates **poor business performance**, and this calls for **urgent action to address fulfillment and customer satisfaction issues**.
 <p align="left"> <img src="img/percentageoftotalsalesbyshippingstatus.PNG" alt="Percentage of total sales by shipping status"> </p>
 <br/>
 
+
+The chart reveals a **declining trend in delivered products**, with **very few items reaching customers over time**. There is also a **noticeable drop in products in transit**, indicating **inefficiencies in the delivery process**. Meanwhile, **returned products are increasing**, reflecting **growing customer dissatisfaction**. Overall, these trends point to **poor business performance that requires immediate attention**.
 <p align="left"> <img src="img/shippingstatustrends.PNG" alt="Shipping status trends"> </p>
 <br/>
 
+
+The analysis of monthly sales reveals a **consistent decline in total sales throughout the year**. This downward trend has **persisted into the current period**, indicating **ongoing poor performance**. The data clearly suggests that the **business is struggling**, and immediate corrective measures are necessary to reverse the trend.
 <p align="left"> <img src="img/monthlysalestrend.PNG" alt="Monthly sales trend"> </p>
 <br/>
 
