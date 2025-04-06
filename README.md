@@ -111,11 +111,15 @@ Furthermore, the in transit rate of 35.06% indicates delays in the delivery proc
 **Sales by Gender**, Upon grouping the sales data by gender and calculating the total sales per group, the analysis reveals a notable disparity in purchasing behavior:
 + **Male customers account for 55.8% of the total sales**, indicating a stronger buying power in the current market segment.
 + **Female customers contribute 44.2% of the total sales**, representing a significant but comparatively lower share.
-
 These insights suggest a potential opportunity to explore targeted strategies that can either leverage the strong engagement of male buyers or enhance female customer conversion to achieve a more balanced sales distribution.
 <p align="left"> <img src="img/percentageoftotalsalesbygender.PNG" alt="Percentage of Total Sales by Gender"> </p>
 <br/>
 
+
+The analysis of total sales distribution across product categories reveals a significant concentration in one segment:
++ **Electronics lead with 88.4% of the total sales**, highlighting this category as the primary revenue driver.
++ **Wearables follow at 6.1%, and Accessories at 5.6%**, both contributing marginally to overall sales.
+This indicates a heavy reliance on electronics for revenue, while **Wearables and Accessories exhibit notably low sales performance**, suggesting areas for potential growth or strategic review.
 <p align="left"> <img src="img/percentageoftotalsalesbycategory.PNG" alt="Percentage of Total Sales by Category"> </p>
 <br/>
 
