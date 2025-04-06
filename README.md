@@ -145,12 +145,18 @@ The analysis of monthly sales reveals a **consistent decline in total sales thro
 <p align="left"> <img src="img/monthlysalestrend.PNG" alt="Monthly sales trend"> </p>
 <br/>
 
+
+The sales distribution by region reveals that the **West region leads in total sales**, followed by the **South region**, then the **East**, and finally the **North region**. This distribution highlights regional performance variations, with the West showing the strongest sales performance.
 <p align="left"> <img src="img/salesdistributionbyregion.PNG" alt="Sales distribution by region"> </p>
 <br/>
 
+
+The sales distribution by product category confirms that **Electronics** leads with the highest number of sales, followed by **Accessories** and **Wearables**. The **Wearables category is performing poorly**, contributing a significantly lower share of total sales. This underperformance suggests that **strategic action is needed** to boost sales in the Wearables category.
 <p align="left"> <img src="img/salesdistributionbyproductcategory.PNG" alt="Sales distribution by product category"> </p>
 <br/>
 
+
+The analysis of the correlation between age and total purchase amount reveals some interesting insights. **The majority of customers across all age groups are purchasing products priced at $1500 or below**, indicating a preference for more affordable options. Notably, **customers aged 50 and above** tend to purchase the **most expensive products**, highlighting a distinct purchasing behavior among this age group.
 <p align="left"> <img src="img/correlationbetweenageandtotalpurchaseamount.PNG" alt="Correlation between age and total purchase amount"> </p>
 <br/>
 
