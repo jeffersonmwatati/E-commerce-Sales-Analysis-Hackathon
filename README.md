@@ -111,6 +111,7 @@ Furthermore, the in transit rate of 35.06% indicates delays in the delivery proc
 **Sales by Gender**, Upon grouping the sales data by gender and calculating the total sales per group, the analysis reveals a notable disparity in purchasing behavior:
 + **Male customers account for 55.8% of the total sales**, indicating a stronger buying power in the current market segment.
 + **Female customers contribute 44.2% of the total sales**, representing a significant but comparatively lower share.
+
 These insights suggest a potential opportunity to explore targeted strategies that can either leverage the strong engagement of male buyers or enhance female customer conversion to achieve a more balanced sales distribution.
 <p align="left"> <img src="img/percentageoftotalsalesbygender.PNG" alt="Percentage of Total Sales by Gender"> </p>
 <br/>
@@ -119,10 +120,13 @@ These insights suggest a potential opportunity to explore targeted strategies th
 The analysis of total sales distribution across product categories reveals a significant concentration in one segment:
 + **Electronics lead with 88.4% of the total sales**, highlighting this category as the primary revenue driver.
 + **Wearables follow at 6.1%, and Accessories at 5.6%**, both contributing marginally to overall sales.
+
 This indicates a heavy reliance on electronics for revenue, while **Wearables and Accessories exhibit notably low sales performance**, suggesting areas for potential growth or strategic review.
 <p align="left"> <img src="img/percentageoftotalsalesbycategory.PNG" alt="Percentage of Total Sales by Category"> </p>
 <br/>
 
+
+An evaluation of total sales by individual product names shows that the **Laptop is the top-performing product**, generating **50.2% of the total revenue**. This is followed by the **Smart Phone**, contributing **26.1%**, making these two products the **main revenue drivers** for the business. Other products show significantly lower performance: the **Monitor accounts for 12.1%**, **Smart Watch 6.1%, Headphones 2.9%, Keyboard 1.8%**, and the **Mouse just 0.9%** of total sales. These figures indicate that **only the Laptop and Smart Phone are performing well**, while the remaining products contribute **very little to overall revenue**. This underperformance suggests a need for strategic intervention—either through improved marketing, product positioning, or reconsideration of inventory and sales efforts—for the lower-performing items.
 <p align="left"> <img src="img/percentageoftotalsalesbyproductname.PNG" alt="Percentage of total sales by productname"> </p>
 <br/>
 
