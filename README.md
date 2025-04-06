@@ -215,5 +215,7 @@ Furthermore, the **order fulfillment process** is facing significant challenges,
 ***Addressing these issues and implementing strategic improvements, the business can work towards reversing the declining sales trend and achieving sustainable growth.***
 
 
-[**By Mr. Jefferson Mwatati**](https://github.com/jeffersonmwatati)
-                                                                           ***End of Report***   
+[**By Mr. Jefferson Mwatati**](https://github.com/jeffersonmwatati) <br/>
+
+<p align="center"> ***End of Report*** </p>
+                                                                              
