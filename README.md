@@ -213,7 +213,8 @@ Furthermore, the **order fulfillment process** is facing significant challenges,
 5. **Monitor Regional Trends**: While the **East** region leads in sales, the business should focus on improving performance in other regions, particularly the **West** and **South**, by localizing marketing and product strategies.
 
 ***Addressing these issues and implementing strategic improvements, the business can work towards reversing the declining sales trend and achieving sustainable growth.***
-
+<br/>
+<br/>
 
 [**By Mr. Jefferson Mwatati**](https://github.com/jeffersonmwatati) <br/>
 
